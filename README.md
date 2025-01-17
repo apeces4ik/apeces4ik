@@ -10,7 +10,7 @@
 ---
 
 # 👋 Hi, I’m **apeces4ik**
-### Blockchain Developer | Solidity Newbie
+### Blockchain Developer | Solidity Enthusiast
 
 Welcome to my GitHub profile! I’m passionate about building decentralized applications and smart contracts using **Solidity**. Let’s revolutionize the blockchain space together! 🚀
 
@@ -60,17 +60,17 @@ A decentralized lending platform built on Ethereum.
 
 ## 🎉 Fun Facts
 
-- 🎸 Когда я не пишу код, я играю на гитаре.
-- ☕ Я выпиваю больше кофе, чем пишу строк кода.
-- 🚀 Мечтаю создать свой собственный блокчейн.
+- 🎸 When I’m not coding, I’m playing the guitar.
+- ☕ I drink more coffee than I write lines of code.
+- 🚀 Dreaming of building my own blockchain.
 
 ---
 
 ## 📚 Currently Learning
 
-- **Advanced Solidity**: Изучаю оптимизацию смарт-контрактов.
-- **Rust**: Планирую изучить для разработки на Solana.
-- **Web3.js**: Углубляюсь во взаимодействие с Ethereum.
+- **Advanced Solidity**: Exploring smart contract optimization.
+- **Rust**: Planning to learn for Solana development.
+- **Web3.js**: Deep diving into Ethereum interactions.
 
 ---
 
@@ -78,23 +78,23 @@ A decentralized lending platform built on Ethereum.
 
 - [Solidity Developer Certification](https://example.com)
 - [Ethereum Developer Bootcamp](https://example.com)
-- [Top 10% на Hackathon](https://example.com)
+- [Top 10% in a Hackathon](https://example.com)
 
 ---
 
 ## 💻 My Setup
 
-- **Ноутбук**: MacBook Pro 16" (M1)
-- **ОС**: macOS Ventura
-- **Редактор кода**: VS Code
-- **Тема**: Dracula
-- **Терминал**: iTerm2 + Oh My Zsh
+- **Laptop**: MacBook Pro 13" (M2)
+- **OS**: macOS Ventura
+- **Code Editor**: VS Code
+- **Theme**: Dracula
+- **Terminal**: iTerm2 + Oh My Zsh
 
 ---
 
 ## ☕ Support Me
 
-Если вам нравится то, что я делаю, вы можете поддержать меня:
+If you like what I do, you can support me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
