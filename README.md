@@ -35,18 +35,18 @@ A decentralized lending platform built on Ethereum.
 
 ---
 
-## 🔥 Contributions
+## 🔥 GitHub Activity
 
-![Snake Animation](https://github.com/apeces4ik/apeces4ik/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=apeces4ik&theme=github)
+
+---
+
+## 🎯 Goals
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Building+decentralized+apps;Learning+Solidity+every+day;Exploring+Web3+world&center=true&width=500&height=50)
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
-
-⭐️ From [apeces4ik](https://github.com/apeces4ik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the
