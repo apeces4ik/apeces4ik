@@ -16,6 +16,12 @@ Welcome to my GitHub profile! I’m passionate about building decentralized appl
 
 ---
 
+## 🐍 Змейка
+
+![Snake Game](https://raw.githubusercontent.com/apeces4ik/snake-game/output/github-snake.svg)
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -88,6 +94,5 @@ A decentralized lending platform built on Ethereum.
 - **Code Editor**: Remix IDE / VS Code
 - **Theme**: Dracula
 - **Terminal**: iTerm2 + Oh My Zsh
-
 
 ⭐️ From [apeces4ik](https://github.com/apeces4ik)
