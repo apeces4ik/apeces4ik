@@ -85,27 +85,9 @@ A decentralized lending platform built on Ethereum.
 
 - **Laptop**: MacBook Pro 13" (M2)
 - **OS**: macOS Ventura
-- **Code Editor**: VS Code
+- **Code Editor**: Remix IDE / VS Code
 - **Theme**: Dracula
 - **Terminal**: iTerm2 + Oh My Zsh
 
----
-
-## ☕ Support Me
-
-If you like what I do, you can support me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
 
 ⭐️ From [apeces4ik](https://github.com/apeces4ik)
