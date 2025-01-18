@@ -26,15 +26,15 @@ Welcome to my GitHub profile! I’m passionate about building decentralized appl
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects in plan
 
-### [Decentralized Voting System](https://github.com/apeces4ik/decentralized-voting)
+### [Decentralized Voting System]
 A secure and transparent voting system built on Ethereum using Solidity.
 
-### [NFT Marketplace](https://github.com/apeces4ik/nft-marketplace)
+### [NFT Marketplace]
 A fully decentralized NFT marketplace using ERC-721 tokens.
 
-### [DeFi Lending Protocol](https://github.com/apeces4ik/defi-lending)
+### [DeFi Lending Protocol]
 A decentralized lending platform built on Ethereum.
 
 ---
